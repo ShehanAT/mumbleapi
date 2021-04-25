@@ -1,0 +1,1 @@
+web: gunicorn mumblebackend.wsgi --log-file -
